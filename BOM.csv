@@ -1,0 +1,5 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+PCB + stencil if needed,all components are on this,1,20,https://jlcpcb.com,jlcpcb
+ALL components,all components that are on pcb,1,40,https://lcsc.com,lcsc
+Screen,"shows info, numbers etc..",,3,https://www.aliexpress.com/item/1005006141235306.html,Aliexpress
+,,Total cost,60,,
