@@ -2,6 +2,7 @@
 **Very simple DDR3L tester, plug ddr3l stick into slot, esp32 c6 reads data and can overwrite config of ram as well, with buttons for control and screen to see progress**  
 
 
+
 <details>
 <summary>How to make one?</summary>
   
@@ -10,6 +11,19 @@
   
 </details>
 
+<details>
+<summary>How assemble?</summary>
+Place top part ontop of the pcb and solder screen and buttons, then place the bottom part underneath the pcb and use M2 screws to screw into place.  
+
+  
+</details>
+
+<details>
+<summary>How to flash?</summary>
+Plug the USB-C into computer and use arduino ide to flash.  
+
+  
+</details>
 
 <details>
 <summary>BOM</summary>
